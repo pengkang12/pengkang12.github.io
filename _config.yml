@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peng Kang/ Peng Kang's website"
+title                    : "Peng Kang's website"
 title_separator          : "-"
 name                     : &name "Peng Kang"
 description              : &description "personal description"
-url                      : https://tutu-kang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://pengkang12.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tutu-kang/tutu-kang.github.io"
+repository               : "pengkang12/pengkang12.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tutu-kang"
+  github           : "pengkang12"
   google_plus      :
   keybase          :
   instagram        :
