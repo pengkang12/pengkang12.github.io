@@ -17,11 +17,6 @@ Education
 
 Work experience
 ======
-* Summer 2022: Software engineering intern. 
-  * Google
-  * Duties included: Todo. 
-  * Supervisor: Todo. 
-
 * Oct., 2016 - March, 2017:
   * Baidu Waimai, Inc 
   * Duties included: Responsible daily management for 2000 servers, including log collection, installation and configuration for system software, and troubleshooting for hardware and software.
@@ -58,14 +53,14 @@ Service and leadership
 * Webmaster.  The IEEE Computer Society Technical Committee on Distributed Processing.
 * IEEE Student Member. 
 
-Awards and leadership
+Honors and Awards 
 ======
 * Who's Who at UTSA.  The University of Texas at San Antonio. 2022.
 * NSDI'21 Student Grant. The 18th USENIX Symposium on Networked Systems Design and Implementation (NSDI '21). 
-* Alvarez Research Competitive Scholarship}. The University of Texas at San Antonio. 2021.
-* The member of Phi Kappa Phi}. An honor society. 2020.
-* Second-class scholarship}. Nanjing University of Aeronautics and Astronautics(China). 2013.
-* The provincial second prize}. The National High School Mathematics League(China). 2008.
+* Alvarez Research Competitive Scholarship. The University of Texas at San Antonio. 2021.
+* The member of Phi Kappa Phi. An honor society. 2020.
+* Second-class scholarship. Nanjing University of Aeronautics and Astronautics(China). 2013.
+* The provincial second prize. The National High School Mathematics League(China). 2008.
 
 Miscellany
 ======
