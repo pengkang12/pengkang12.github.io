@@ -11,21 +11,20 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, Nanjing University of Aeronautics and Astronautics, 2013
+* M.S. in Computer Science, Xi'an Microelectronic Technology Institute, 2016
+* Ph.D in Computer Science, The University of Texas at San Antonio, 2023 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2022: Software engineering intern. 
+  * Google
+  * Duties included: Todo. 
+  * Supervisor: Todo. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Oct., 2016 - March, 2017:
+  * Baidu Waimai, Inc 
+  * Duties included: Responsible daily management for 2000 servers, including log collection, installation and configuration for system software, and troubleshooting for hardware and software.
   
 Skills
 ======
@@ -53,7 +52,22 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Webmaster.  The IEEE Computer Society Technical Committee on Distributed Processing.
+
+Awards and leadership
+======
+* Who's Who at UTSA.  The University of Texas at San Antonio. 2022.
+* NSDI'21 Student Grant. The 18th USENIX Symposium on Networked Systems Design and Implementation (NSDI '21). 
+* Alvarez Research Competitive Scholarship}. The University of Texas at San Antonio. 2021.
+* The member of Phi Kappa Phi}. An honor society. 2020.
+* Second-class scholarship}. Nanjing University of Aeronautics and Astronautics(China). 2013.
+* The provincial second prize}. The National High School Mathematics League(China). 2008.
+
+Miscellany
+======
+* Tennis. National Tennis Rating Program (NTRP) 4.5.
+* Running. 2017 Seoul International Marathon(4 hours). Texas Independence Relay(Mixed, No.18, 2022).
+* Cycling. 25 Days Cycling Tour from Chengdu via Sichuan Tibet Highway(1338.434mile), 2013. 
