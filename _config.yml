@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Peng Kang/ Personal website"
+title                    : "Peng Kang/ Peng Kang's website"
 title_separator          : "-"
 name                     : &name "Peng Kang"
 description              : &description "personal description"
@@ -85,10 +85,10 @@ author:
   bio              : "Make people appreciate your work."
   location         : "San Antonio, USA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=n3O76JUAAAAJ&hl=en"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "tutu-kang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/peng-kang-bb55b3157/
+  linkedin         : peng-kang-bb55b3157
   orcid            : 
   pinterest        :
   soundcloud       :

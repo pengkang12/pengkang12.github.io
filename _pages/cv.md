@@ -28,12 +28,12 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* C/C++, Java, Python, Shell.
+* Linux, KVM, Microservices(Kubernetes, Docker), Google Cloud.
+* Data Science:
+  * Scipy, Scikit-learn, Keras.
+  * Pandas, Numpy.  
+  * Apache Storm, Apache Spark.
 
 Publications
 ======
@@ -56,6 +56,7 @@ Teaching
 Service and leadership
 ======
 * Webmaster.  The IEEE Computer Society Technical Committee on Distributed Processing.
+* IEEE Student Member. 
 
 Awards and leadership
 ======
