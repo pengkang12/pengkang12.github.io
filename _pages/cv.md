@@ -17,8 +17,8 @@ Education
 
 Work experience
 ======
-* May., 2022 - Aug, 2022:
-  * Software engineering intern, Pittsburgh, Google, Inc 
+* Software engineering intern, Google, Inc
+  * May., 2022 - Aug, 2022. Pittsburgh.
   * Description: the variety of ML models are serving on Servomatic(a model-serving platform).
 When a model experiences unexpected high latency and/or availability errors debugging the
 root cause is human time intensive, using viable metrics to identify the root cause and provide
@@ -26,8 +26,8 @@ actionable hints.
   * Analyzing the existed root cause, proposing the design documentation, and implementing the
 prototype
 
-* Oct., 2016 - March, 2017:
-  * Site reliability engineering, Beijing, Baidu Waimai, Inc 
+* Site reliability engineering, Baidu Waimai, Inc 
+  * Oct., 2016 - March, 2017. Beijing.
   * Duties included: Responsible daily management for 2000 servers, including log collection, installation and configuration for system software, and troubleshooting for hardware and software.
   
 Skills
