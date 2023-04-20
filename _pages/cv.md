@@ -11,33 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electrical Engineering, Nanjing University of Aeronautics and Astronautics, 2013
-* M.S. in Computer Science, Xi'an Microelectronic Technology Institute, 2016
 * Ph.D in Computer Science, The University of Texas at San Antonio, 2023 (expected)
+* M.S. in Computer Science, Xi'an Microelectronic Technology Institute, 2016
+* B.S. in Electrical Engineering, Nanjing University of Aeronautics and Astronautics, 2013
 
 Work experience
 ======
 * Software engineering intern, Google, Inc
   * May., 2022 - Aug, 2022. Pittsburgh.
-  * Description: the variety of ML models are serving on Servomatic(a model-serving platform).
-When a model experiences unexpected high latency and/or availability errors debugging the
-root cause is human time intensive, using viable metrics to identify the root cause and provide
-actionable hints.
-  * Analyzing the existed root cause, proposing the design documentation, and implementing the
-prototype
+  * Optimized root cause analysis for latency and availability errors in ML models on Servomatic platform. Analyzed root causes, proposed design documentation, and implemented prototype with viable metrics for debugging, resulting in improved performance and time savings.
 
 * Site reliability engineering, Baidu Waimai, Inc 
   * Oct., 2016 - March, 2017. Beijing.
-  * Duties included: Responsible daily management for 2000 servers, including log collection, installation and configuration for system software, and troubleshooting for hardware and software.
+  * Optimized operating systems and kernels for improved application stability, including hardware testing and optimization (CPU, memory, network, RAID). Explored resource virtualization to further enhance system performance.
   
 Skills
 ======
 * C/C++, Java, Python, Shell.
-* Linux, KVM, Microservices(Kubernetes, Docker), Google Cloud.
-* Data Science:
+* System & Hardware:
+  * Linux(Ubuntu), KVM, Microservices(Kubernetes, Docker), Google Cloud.
+  * Raspberry Pi, Jetson Nano. 
+* Data Science & Machine Learning:
   * Scipy, Scikit-learn, Keras.
   * Pandas, Numpy.  
   * Apache Storm, Apache Spark.
+  * Tensorflow, Pytorch. 
 
 Publications
 ======
