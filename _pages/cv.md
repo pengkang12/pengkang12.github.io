@@ -37,25 +37,6 @@ Skills
   * Apache Storm, Apache Spark.
   * Tensorflow, Pytorch. 
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
- 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Professional Services
-======
-* Reviewer, IEEE International Conference on Communications(ICC), 2022.  
-* Webmaster,  The IEEE Computer Society Technical Committee on Distributed Processing.
-* IEEE Student Member. 
-
 Honors and Awards 
 ======
 * Who's Who at UTSA.  The University of Texas at San Antonio. 2022.
@@ -65,12 +46,7 @@ Honors and Awards
 * Second-class scholarship. Nanjing University of Aeronautics and Astronautics(China). 2013.
 * The provincial second prize. The National High School Mathematics League(China). 2008.
 
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
- 
+
 Miscellany
 ======
 * Tennis. National Tennis Rating Program (NTRP) 4.5. 
