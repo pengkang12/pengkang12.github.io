@@ -49,6 +49,6 @@ Honors and Awards
 
 Miscellany
 ======
-* Tennis. National Tennis Rating Program (NTRP) 4.5. 
+* Tennis. National Tennis Rating Program (NTRP) 4.0. Texas Tennis on Campus Series (Championship hosted at Texas A&M). 
 * Running. 2017 Seoul International Marathon(4 hours). Texas Independence Relay(Mixed, No.18, 2022).
 * Cycling. 25 Days Cycling Tour from Chengdu via Sichuan Tibet Highway(1338.434mile), 2013. 
