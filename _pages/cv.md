@@ -44,12 +44,11 @@ Honors and Awards
 * NSDI'21 Student Grant. The 18th USENIX Symposium on Networked Systems Design and Implementation (NSDI '21). 
 * Alvarez Research Competitive Scholarship. The University of Texas at San Antonio. 2021.
 * The member of Phi Kappa Phi. An honor society. 2020.
-* Second-class scholarship. Nanjing University of Aeronautics and Astronautics(China). 2013.
-* The provincial second prize. The National High School Mathematics League(China). 2008.
-
+* Second-class scholarship. Nanjing University of Aeronautics and Astronautics (China). 2013.
+* The provincial second prize. The National High School Mathematics League (China). 2008.
 
 Miscellany
 ======
-* Tennis. National Tennis Rating Program (NTRP) 4.0. Texas Tennis on Campus Series (Championship hosted at Texas A&M). 
-* Running. 2017 Seoul International Marathon(4 hours). Texas Independence Relay(Mixed, No.18, 2022).
-* Cycling. 25 Days Cycling Tour from Chengdu via Sichuan Tibet Highway(1338.434mile), 2013. 
+* Tennis. National Tennis Rating Program (NTRP) 4.0. Team winner, Texas Tennis on Campus Series at Texas A&M, Fall 2021.
+* Running. 2017 Seoul International Marathon(4 hours). Texas Independence Relay, 200 Miles, April, 2022 (Ranking: No.18 / Mixed).
+* Cycling. 25 Days Cycling Tour from Chengdu via Sichuan Tibet Highway(1338.434mile), June 2013. 
