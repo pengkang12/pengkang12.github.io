@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here]({% site.url %}/files/CVPK.pdf)
+[Download CV here](https://pengkang12.github.io/files/CVPK.pdf)
 
 Education
 ======
