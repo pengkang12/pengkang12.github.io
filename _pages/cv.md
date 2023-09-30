@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV here](http://tutu-kang.github.io/files/CV_PK.pdf)
+
 Education
 ======
 * Ph.D in Computer Science, The University of Texas at San Antonio, 2023 (expected)
