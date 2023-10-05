@@ -1,5 +1,5 @@
 ---
-title: "System Programming (lab recitation)"
+title: "System Programming (Lab Recitation)"
 collection: Recitation 
 type: "Undergraduate course"
 permalink: /teaching/2023-System-Programming-1
