@@ -9,5 +9,5 @@ redirect_from:
 ---
 Brief Biography
 ====
-I am a final-year Ph.D. candidate in the [Department of Computer science](https://cs.utsa.edu/) at the University of Texas at San Antonio, where I have the fortune of being supervised by Dr. [Palden Lama](http://www.cs.utsa.edu/~plama/). My research interests lies at the intersection of Microservices, stream processing(using Apache spark and Apache storm), machine learning with systems, and root cause analysis (data-driven diagnosis).
+I am a final-year Ph.D. candidate in the [Department of Computer science](https://cs.utsa.edu/) at the University of Texas at San Antonio, where I have the fortune of being supervised by Dr. [Palden Lama](http://www.cs.utsa.edu/~plama/). My research focuses on designing advanced system software and middleware solutions to optimize cloud and edge resource management, enhancing the Quality of Service for end users. These solutions are grounded on the principles of probabilistic machine learning, Bayesian optimization and game theory.
 
