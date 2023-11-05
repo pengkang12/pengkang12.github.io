@@ -11,3 +11,6 @@ Brief Biography
 ====
 I am a final-year Ph.D. candidate in the [Department of Computer science](https://cs.utsa.edu/) at the University of Texas at San Antonio, where I have the fortune of being supervised by Dr. [Palden Lama](http://www.cs.utsa.edu/~plama/). My research focuses on designing advanced system software and middleware solutions to optimize cloud and edge resource management, enhancing the Quality of Service for end users. These solutions are grounded on the principles of probabilistic machine learning, Bayesian optimization and game theory.
 
+A successful research endeavor is always conducted in a timely manner.
+
+Mountain hiking brings me a sense of tranquility and comfort, making it one of my beloved activities.
