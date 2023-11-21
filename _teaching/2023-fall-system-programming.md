@@ -3,7 +3,7 @@ title: "System Programming (Lab Recitation)"
 collection: Recitation 
 type: "Undergraduate course"
 permalink: /teaching/2023-System-Programming-1
-venue: "UTSA, Department of Computer Science"
+venue: "Department of Computer Science, UTSA"
 date: 2023-09-01
 location: "San Antonio, USA"
 ---
