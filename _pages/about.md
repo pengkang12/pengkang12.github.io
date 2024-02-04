@@ -19,7 +19,7 @@ Mountain hiking brings me a sense of tranquility and comfort, making it one of m
 News
 ====
 
-<span style="background-color: #F2F2F2;">January, 2024</span> I earned my Master's degree in Computer Science from the University of Texas at San Antonio.
+<span style="color: white; background-color: #AB9758;">January, 2024</span> I earned my Master's degree in Computer Science from the University of Texas at San Antonio.
  
-<span style="background-color: yellow;">Febraruy, 2024</span> I will be starting a new position as a tenure-track assistant professor at Sacramento State University in August 2024.
+<span style="color: white; background-color: #AB9758;">Febraruy, 2024</span> I will be starting a new position as a tenure-track assistant professor at Sacramento State University in August 2024.
  
