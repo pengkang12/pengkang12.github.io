@@ -19,5 +19,8 @@ Mountain hiking brings me a sense of tranquility and comfort, making it one of m
 News
 ====
 
+<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Febuary, 2024</span> My Ph.D. defense is scheduled for April. 
+
 <span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">January, 2024</span> I earned my Master's degree in Computer Science from the University of Texas at San Antonio.
+
  
