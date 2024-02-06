@@ -1,7 +1,7 @@
 ---
 title: "Senior Design"
 collection: Teaching Assistant 
-type: "Undergraduate course"
+type: "Undergraduate course, CS 4613"
 permalink: /teaching/2024-Senior-Design-1
 venue: "Department of Computer Science, UTSA"
 date: 2024-01-26

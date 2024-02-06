@@ -1,7 +1,7 @@
 ---
 title: "Cloud Computing"
 collection: Teaching Assistant 
-type: "Undergraduate course"
+type: "Undergraduate course, CS 5573"
 permalink: /teaching/2022-Cloud-Computing-1
 venue: "Department of Computer Science, UTSA"
 date: 2022-09-01

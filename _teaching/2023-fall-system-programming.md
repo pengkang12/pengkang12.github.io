@@ -1,7 +1,7 @@
 ---
 title: "System Programming (Lab Recitation)"
 collection: Recitation 
-type: "Undergraduate course"
+type: "Undergraduate course, CS 3424"
 permalink: /teaching/2023-System-Programming-1
 venue: "Department of Computer Science, UTSA"
 date: 2023-09-01

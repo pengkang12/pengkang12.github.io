@@ -1,7 +1,7 @@
 ---
 title: "Computer Organization (Lab Recitation)"
 collection: Recitation 
-type: "Undergraduate course"
+type: "Undergraduate course, CS 3843"
 permalink: /teaching/2019-summer-teaching-1
 venue: "Department of Computer Science, UTSA"
 date: 2019-06-01
