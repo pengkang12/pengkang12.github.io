@@ -10,8 +10,6 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
-======
 * A. Shahid, P. Kang, P. Lama and S. U. Khan, "Some New Observations on SLO-aware Edge Stream Processing," 2023 IEEE Cloud Summit, Baltimore, MD, USA, 2023, pp. 27-32.
 * Xue Li, Peng Kang, Jordan Molone, Wei Wang and Palden Lama.KneeScale: Efficient Resource Scaling for Serverless Computing at the Edge. Proc. of the 22nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 10 pages, Taormina, Italy, May 2022.
 * P. Kang, P. Lama and S. U. Khan, "SLO-aware Virtual Rebalancing for Edge Stream Processing," 2021 IEEE International Conference on Cloud Engineering (IC2E), 2021, pp. 126-135.
