@@ -12,7 +12,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, The University of Texas at San Antonio, 2023 (expected)
+* Ph.D in Computer Science, The University of Texas at San Antonio, 2024
+* M.S. in Computer Science, The University of Texas at San Antonio, 2023
 * M.S. in Computer Science, Xi'an Microelectronic Technology Institute, 2016
 * B.S. in Electrical Engineering, Nanjing University of Aeronautics and Astronautics, 2013
 
