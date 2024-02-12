@@ -24,4 +24,3 @@ News
 
 <span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">January, 2024</span> I earned my Master's degree in Computer Science from the University of Texas at San Antonio.
 
- 
