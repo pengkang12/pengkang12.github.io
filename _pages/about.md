@@ -17,12 +17,12 @@ I am a final-year Ph.D. candidate in the [Department of Computer science](https:
 News
 ====
 
-<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Febuary, 2024</span> In Fall 2024, I will be starting my role as a tenure-track Assistant Professor at Sacramento State University.
+<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Feb, 2024</span> In Fall 2024, I will join in Sacramento State University as a tenure-track Assistant Professor.
 
-<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Febuary, 2024</span> Congratulations! Our paper, Beaver, is accepted for presentation at CCGrid 2024.
+<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Feb, 2024</span> Congratulations! Our paper, Beaver, is accepted by CCGrid 2024.
 
-<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Febuary, 2024</span> My Ph.D. defense is scheduled for April. 
+<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Feb, 2024</span> My Ph.D. defense is scheduled for April. 
 
-<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">January, 2024</span> I earned my Master's degree in Computer Science from the University of Texas at San Antonio.
+<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Jan, 2024</span> I earned my Master's degree in Computer Science from the University of Texas at San Antonio.
 
 
