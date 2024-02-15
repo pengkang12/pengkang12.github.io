@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-* Peng Kang, Samee Khan, Xiaobo Zhou and Palden Lama. "High-throughput Real-time Edge Stream Processing with Topology-Aware Resource Matching", Proceedings of the 24nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 10 pages, Philadelphia, USA, May 2024.
+* P. Kang, S. Khan, X. Zhou and P. Lama. "High-throughput Real-time Edge Stream Processing with Topology-Aware Resource Matching", Proceedings of the 24nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 10 pages, Philadelphia, USA, May 2024.
 * A. Shahid, P. Kang, P. Lama and S. U. Khan, "Some New Observations on SLO-aware Edge Stream Processing," 2023 IEEE Cloud Summit, Baltimore, MD, USA, 2023, pp. 27-32.
 * X. Li, P. Kang, J. Molone, W. Wang and P. Lama, "KneeScale: Efficient Resource Scaling for Serverless Computing at the Edge," 2022 22nd IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid), Taormina, Italy, 2022, pp. 180-189.
 * P. Kang, P. Lama and S. U. Khan, "SLO-aware Virtual Rebalancing for Edge Stream Processing," 2021 IEEE International Conference on Cloud Engineering (IC2E), 2021, pp. 126-135.
