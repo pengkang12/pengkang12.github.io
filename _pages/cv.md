@@ -8,7 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV here](https://pengkang12.github.io/files/CVPK.pdf)
 
 Education
 ======
@@ -50,6 +49,11 @@ Honors and Awards
 
 Miscellany
 ======
-* Tennis. National Tennis Rating Program (NTRP) 4.0. Team winner, Texas Tennis on Campus Series at Texas A&M, Fall 2021.
-* Running. 2017 Seoul International Marathon(4 hours). Texas Independence Relay, 200 Miles, April, 2022 (Ranking: No.18 / Mixed).
-* Cycling. 25 Days Cycling Tour from Chengdu via Sichuan Tibet Highway(1338.434mile), June 2013. 
+* Tennis. 
+	* National Tennis Rating Program (NTRP) 4.0. 
+	* Team winner, Texas Tennis on Campus Series at Texas A&M, Fall 2021.
+* Running. 
+	* 2017 Seoul International Marathon(4 hours).
+	* Texas Independence Relay, 200 Miles, April, 2022 (Ranking: No.18 / Mixed).
+* Cycling. 
+	* 25 Days Cycling Tour from Chengdu via Sichuan Tibet Highway(1338.434mile), June 2013. 
