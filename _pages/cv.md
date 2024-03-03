@@ -37,7 +37,8 @@ Skills
   * Pandas, Numpy.  
   * Apache Storm, Apache Spark.
   * Tensorflow, Pytorch. 
-
+* Project Management (Google Certificate)
+  
 Honors and Awards 
 ======
 * Who's Who at UTSA.  The University of Texas at San Antonio. 2022.
