@@ -16,6 +16,7 @@ I am a final-year Ph.D. candidate in the [Department of Computer science](https:
 
 News
 ====
+<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Mar, 2024</span> Congratulations! Our paper is accepted by PAISE 2024.
 
 <span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Feb, 2024</span> In Fall 2024, I will join in Sacramento State University as a tenure-track Assistant Professor. <span style="color: red;">Stingers Up!</span>. 
 
