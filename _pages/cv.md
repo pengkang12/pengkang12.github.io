@@ -38,7 +38,7 @@ Skills
   * Apache Storm, Apache Spark.
   * Tensorflow, Pytorch. 
 
-Certificate
+Certificates
 ======
 * [Google Project Management: Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YXUT36HK2MTF)
 
