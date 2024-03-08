@@ -28,15 +28,19 @@ Work experience
   
 Skills
 ======
-* C/C++, Java, Python, Shell.
-* System & Hardware:
-  * Linux(Ubuntu), KVM, Microservices(Kubernetes, Docker), Google Cloud.
-  * Raspberry Pi, Jetson Nano. 
-* Data Science & Machine Learning:
-  * Scipy, Scikit-learn, Keras.
-  * Pandas, Numpy.  
-  * Apache Storm, Apache Spark.
-  * Tensorflow, Pytorch. 
+* Python
+  * Software develop: Django/Tornado, Postgres/Mysql, Memcached/Redis, Celery/RabbitMQ, RESTful.
+  * Machine Learning/Data Science: Scipy, Scikit-learn, Pandas, Keras, Tensorflow, PyTorch.
+* Java
+  * Middleware: Stream processing (Apache Storm, Apache Spark).
+* C/C++
+  * OpenMP, Embedded OS (VxWorks), Linux system development.
+* Cloud
+  * Google Cloud, AWS, KVM, Ubuntu/CentOS, Kubernetes, Docker, Microservices.
+* Hardware/Architecture
+  * Arm (Jetson Nano, Raspberry Pi), x86, MIPS 
+* Miscellany
+  * shell, git, Project Management.
 
 Certificates
 ======
