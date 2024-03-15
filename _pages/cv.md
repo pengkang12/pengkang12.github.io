@@ -19,11 +19,11 @@ Education
 Work experience
 ======
 * Software engineering intern, Google, Inc
-  * May., 2022 - Aug, 2022. Pittsburgh.
+  * May 2022 - Aug. 2022, Pittsburgh.
   * Optimized root cause analysis for latency and availability errors in ML models on Servomatic platform. Analyzed root causes, proposed design documentation, and implemented prototype with viable metrics for debugging, resulting in improved performance and time savings.
 
 * Site reliability engineering, Baidu Waimai, Inc 
-  * Oct., 2016 - March, 2017. Beijing.
+  * Oct. 2016 - Mar. 2017, Beijing.
   * Optimized operating systems and kernels for improved application stability, including hardware testing and optimization (CPU, memory, network, RAID). Explored resource virtualization to further enhance system performance.
   
 Skills
