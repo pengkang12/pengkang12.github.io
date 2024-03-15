@@ -1,8 +1,8 @@
 {% include base_path %}
 
-<div class="masthead" style="padding: 2pt 4pt; border-radius: 10px; background-color: #008453;">
+<div class="masthead" style="padding: 2pt 4pt; background-color: #008453;">
   <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
+    <div class="masthead__menu" style="background-color: #008453;">
       <nav id="site-nav" class="greedy-nav">
         <button><div class="navicon"></div></button>
         <ul class="visible-links">
@@ -13,7 +13,7 @@
               {% else %}
               {% assign domain = base_path %}
             {% endif %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}" color: white;>{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}"; style="color: white;">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
