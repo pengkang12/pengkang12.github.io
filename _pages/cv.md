@@ -8,6 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
+You can find in my CV [here](https://pengkang12.github.io/files/CV_PK.pdf)
 
 Education
 ======
@@ -25,36 +26,12 @@ Work experience
 * Site reliability engineering, Baidu Waimai, Inc 
   * Oct. 2016 - Mar. 2017, Beijing.
   * Optimized operating systems and kernels for improved application stability, including hardware testing and optimization (CPU, memory, network, RAID). Explored resource virtualization to further enhance system performance.
-  
-Skills
-======
-* Python
-  * Software develop: Django/Tornado, Postgres/Mysql, Memcached/Redis, Celery/RabbitMQ, RESTful.
-  * Machine Learning/Data Science: Scipy, Scikit-learn, Pandas, Keras, Tensorflow, PyTorch.
-* Java
-  * Middleware: Stream processing (Apache Storm, Apache Spark).
-* C/C++
-  * OpenMP, Embedded OS (VxWorks), Linux system development.
-* Cloud
-  * Google Cloud, AWS, KVM, Ubuntu/CentOS, Kubernetes, Docker, Microservices.
-* Hardware/Architecture
-  * Arm (Jetson Nano, Raspberry Pi), x86, MIPS 
-* Miscellany
-  * shell, git, Project Management.
 
 Certificates
 ======
 * 2024 NSF AI Spring School
 * [Google Project Management: Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YXUT36HK2MTF)
 
-Honors and Awards 
-======
-* Who's Who at UTSA.  The University of Texas at San Antonio. 2022.
-* NSDI'21 Student Grant. The 18th USENIX Symposium on Networked Systems Design and Implementation (NSDI '21). 
-* Alvarez Research Competitive Scholarship. The University of Texas at San Antonio. 2021.
-* The member of Phi Kappa Phi. An honor society. 2020.
-* Second-class scholarship. Nanjing University of Aeronautics and Astronautics (China). 2013.
-* The provincial second prize. The National High School Mathematics League (China). 2008.
 
 Miscellany
 ======
