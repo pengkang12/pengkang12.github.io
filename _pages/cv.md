@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find in my CV [here](https://pengkang12.github.io/files/CV_PK.pdf)
+You can find in my CV [here](https://pengkang12.github.io/files/CVPK.pdf)
 
 Education
 ======
