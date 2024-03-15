@@ -14,7 +14,7 @@ My research focuses on designing advanced system software and middleware solutio
 
 I enjoy communicating my work and talking with students who want to learn more about computer science. Please don't hesitate to reach out!
 
-<span style="padding: 2pt 4pt; border-radius: 10px; color: white; background-color: #008453;"> I will join in Sacramento State University as a tenure-track Assistant Professor in Fall 2024. Stingers Up!</span>. 
+<span style="padding: 2pt 4pt; border-radius: 10px; color: white; background-color: #008453;"> I will join in Sacramento State University as a tenure-track Assistant Professor in Fall 2024.</span>
 
 News
 ====
