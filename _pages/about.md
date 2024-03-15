@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Peng Kang
+About Me
 ====
 I am a final-year Ph.D. candidate in the [Department of Computer science](https://cs.utsa.edu/) at the University of Texas at San Antonio, where I have the fortune of being supervised by Dr. [Palden Lama](http://www.cs.utsa.edu/~plama/). 
 
