@@ -1,7 +1,7 @@
 {% include base_path %}
 {% assign navigation = site.data.navigation[include.nav] %}
 
-<nav class="nav__list" style="padding: 2pt 4pt; border-radius: 10px; color: white; background-color: #008453;">
+<nav class="nav__list">
   {% if page.sidebar.title %}<header><h4 class="nav__title" style="padding: 0;">{{ page.sidebar.title }}</h4></header>{% endif %}
   <ul>
     {% for nav in navigation %}
