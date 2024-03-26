@@ -18,6 +18,9 @@ I enjoy communicating my work and talking with students who want to learn more a
 
 News
 ====
+<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Mar, 2024</span> <span style="color: red;">CCGrid 2024 travel grant</span> is funded by NSF! Many thanks to NSF and Dr. Tyler Allen.
+
+
 <span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Mar, 2024</span> Congratulations! Our paper is accepted by IPDPS <span style="color: red;">PAISE 2024</span>.
 
 <span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Feb, 2024</span> Congratulations! Our paper is accepted by <span style="color: red;">CCGrid 2024</span>.
