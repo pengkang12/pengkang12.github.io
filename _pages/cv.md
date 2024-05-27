@@ -31,7 +31,7 @@ Certificates
 ======
 * 2024 NSF AI Spring School
 * [Google Project Management: Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/YXUT36HK2MTF)
-
+* [Google IT Automation with Python](https://www.coursera.org/account/accomplishments/specialization/certificate/HHQHX5X5RVGM)
 
 Miscellany
 ======

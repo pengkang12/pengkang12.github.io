@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
-name                     : &name "Peng Kang"
+name                     : &name "Dr. Peng Kang"
 description              : &description "personal description"
 url                      : https://pengkang12.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"

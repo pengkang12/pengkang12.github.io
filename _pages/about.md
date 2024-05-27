@@ -16,6 +16,8 @@ I enjoy communicating my work and talking with students who want to learn more a
 
 News
 ====
+
+<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">May, 2024</span> I will teach CSC159 in Fall 2024! 
  
 <span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">April, 2024</span> I successfully defend my dissertation! 
  
