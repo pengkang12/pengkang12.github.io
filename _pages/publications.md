@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
+* Faiza Akram, **Peng Kang**, Palden Lama, Samee U. Khan, "Data-priority Aware Fair Task Scheduling for Stream Processing at the Edge", In the 8th IEEE Cloud Summit, Washington, DC, USA, 2024. (Selected as the best paper).
+* Hasanul Mahmud, **Peng Kang**, Kevin Desai, Palden Lama and Sushil Prasad, "Enhanced Converting Autoencoder based Framework for Low-latency Energy-efficient DNN with SLO-constraints", In the 8th IEEE Cloud Summit, Washington, DC, USA, 2024.
 * H. Mahmud, **P. Kang**, K. Desai, P. Lama and S. Prasad, "A Converting Autoencoder Toward Low-latency and Energy-efficient DNN Inference at the Edge", In the 6th Workshop on Parallel AI and Systems for the Edge (PAISE), San Francisco, USA, May 2024.
 * **P. Kang**, S. Khan, X. Zhou and P. Lama. "High-throughput Real-time Edge Stream Processing with Topology-Aware Resource Matching", In the 24nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 10 pages, Philadelphia, USA, May 2024.
 * A. Shahid, **P. Kang**, P. Lama and S. U. Khan, "Some New Observations on SLO-aware Edge Stream Processing," 2023 IEEE Cloud Summit, Baltimore, MD, USA, 2023, pp. 27-32.
