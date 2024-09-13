@@ -12,7 +12,7 @@ I am an assistant professor of Computer Science at Sacramento State University. 
 
 My research focuses on designing advanced system software and middleware solutions to optimize cloud and edge resource management, enhancing the Quality of Service for end users. These solutions are grounded on the principles of probabilistic machine learning, Bayesian optimization and game theory. I am also interested in IoT-Edge Intelligence, how to make AI/ML model efficiently running in the resource limited devices, such as Raspberry Pi and Jetson series devices, to solve the real-world problems. 
 
-I enjoy communicating my work and talking with students who want to learn more about computer science. Please don't hesitate to reach out!
+I enjoy communicating my work and talking with students who want to learn more about computer science. Please don't hesitate to reach out or come to my office (Riverside 5044, Office Hours: Tues/Thur 3:00 pm to 4:30 pm)!
 
 News
 ====
