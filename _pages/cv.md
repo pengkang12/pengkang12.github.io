@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find in my CV [here](https://pengkang12.github.io/files/CVPK.pdf)
+You can find more details in CV [here](https://pengkang12.github.io/files/CVPK.pdf)
 
 Education
 ======
@@ -19,13 +19,14 @@ Education
 
 Work experience
 ======
+* California State University, Sacramento
+  * Aug 2024 - Now, Sacramento.
+
 * Software engineering intern, Google, Inc
   * May 2022 - Aug. 2022, Pittsburgh.
-  * Optimized root cause analysis for latency and availability errors in ML models on Servomatic platform. Analyzed root causes, proposed design documentation, and implemented prototype with viable metrics for debugging, resulting in improved performance and time savings.
 
 * Site reliability engineering, Baidu Waimai, Inc 
   * Oct. 2016 - Mar. 2017, Beijing.
-  * Optimized operating systems and kernels for improved application stability, including hardware testing and optimization (CPU, memory, network, RAID). Explored resource virtualization to further enhance system performance.
 
 Certificates
 ======
@@ -36,7 +37,7 @@ Certificates
 Miscellany
 ======
 * Tennis. 
-	* National Tennis Rating Program 4.0. 
+	* National Tennis Rating Program 4.0+. 
 	* Team winner, Texas Tennis on Campus Series at Texas A&M, Fall 2021.
 * Running. 
 	* 2017 Seoul International Marathon (4 hours).
