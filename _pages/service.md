@@ -8,18 +8,18 @@ author_profile: true
 {% include base_path %}
 
 * Session Chair
-	- 2024, IEEE International Symposium on Cluster, Cloud and Internet Computing
+	- IEEE International Symposium on Cluster, Cloud and Internet Computing, 2024
 
 * Reviewer
-	- 2024, IEEE International Conference on Data Mining (ICDM)
-	- 2023, IEEE Transactions on Network Science and Engineering (TNSE)
-	- 2022, IEEE International Conference on Communications (ICC)
+	- IEEE International Conference on Data Mining (ICDM), 2024
+	- IEEE Transactions on Network Science and Engineering (TNSE), 2023
+	- IEEE International Conference on Communications (ICC), 2022
 
 * Professional Memberships
 	- IEEE Member (2019 - Now)
 	- California Faculty Association (2024 - Now)
 
 * Webmaster
-	- 2020 - 2024, IEEE Computer Society Technical Committee on Distributed Processing (TCDP)
+	- IEEE Computer Society Technical Committee on Distributed Processing (TCDP), 2020 - 2024
 
 
