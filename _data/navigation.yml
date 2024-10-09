@@ -9,11 +9,11 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-    #  - title: "Portfolio"
-    #url: /portfolio/
+  - title: "Service"
+    url: /service/
         
-  - title: "Projects"
-    url: /projects/
+  #- title: "Projects"
+  #  url: /projects/
     
   - title: "CV"
     url: /cv/
