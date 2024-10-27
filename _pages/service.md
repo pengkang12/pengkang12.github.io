@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Service"
-permalink: /Service/
+permalink: /service/
 author_profile: true
 ---
 
@@ -15,11 +15,11 @@ author_profile: true
 	- IEEE Transactions on Network Science and Engineering (TNSE), 2023
 	- IEEE International Conference on Communications (ICC), 2022
 
+* Webmaster
+	- IEEE Computer Society Technical Committee on Distributed Processing (TCDP), 2020 - 2024
+
 * Professional Memberships
 	- IEEE Member (2019 - Now)
 	- California Faculty Association (2024 - Now)
-
-* Webmaster
-	- IEEE Computer Society Technical Committee on Distributed Processing (TCDP), 2020 - 2024
 
 
