@@ -16,10 +16,20 @@ author_profile: true
 	* CS 4613 [Senior Design](https://docs.google.com/document/d/1WkM3TWNvVBtJfX6Al_4_xWi224NkJsmkLir3FjT__T4/edit?usp=sharing), Lab advisor
 	* CS 4843 Cloud Computing, Teaching Assitant
 * Fall 2023
-	* CS 3423 System Programming Lab Recitation, Lecturer
+	* CS 3423 System Programming Lab Recitation, Teaching Assistant
 * Fall 2022, Spring 2023, Summer 2023
 	* CS 5573 Cloud Computing, Teaching Assitant
 * Summer 2019
-	* CS 3843 Computer Organization Lab Recitation, Lecturer
+	* CS 3843 Computer Organization Lab Recitation, Teaching Assistant
 * Fall 2018
 	* CS 3733 Operating System, Teaching Assistant
+	
+
+## Current Students
+
+
+## Past Students
+### Undergraduate students
+
+* UTSA
+	-	Cesar Hinojosa, Matthew Martinez, Thomas Brooks, William Clifford
