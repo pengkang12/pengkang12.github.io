@@ -29,4 +29,8 @@ author_profile: true
   * Hardware Simulation: QEMU
   * Software: C, Shell, Linux, GNU Compiler
   * Skills: Bash, C, make
+### Updated Progress 
+  * Nov: I am currently working on Disk and a file system for Project Phase 6B.
+  * Nov: I have built a demo file system into Project Phase 6A.
+  * Oct: I have built a virtual memory management and user mode into Project Phase 3.5.
 
