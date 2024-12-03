@@ -15,7 +15,7 @@ Education
 * Ph.D in Computer Science, The University of Texas at San Antonio, 2024
 * M.S. in Computer Science, The University of Texas at San Antonio, 2023
 * M.S. in Computer Science, Xi'an Microelectronic Technology Institute, 2016
-* B.S. in Electrical Engineering, Nanjing University of Aeronautics and Astronautics, 2013
+* B.S. in Electrical and Electronic Engineering, Nanjing University of Aeronautics and Astronautics, 2013
 
 Work experience
 ======
@@ -40,7 +40,7 @@ Miscellany
 	* National Tennis Rating Program 4.0+. 
 	* Team winner, Texas Tennis on Campus Series at Texas A&M, Fall 2021.
 * Running. 
-	* 2017 Seoul International Marathon (4 hours).
+	* Seoul International Marathon, 2017.
 	* Texas Independence Relay, 200 miles, April, 2022 (Ranking: No.18 / Mixed).
 * Cycling. 
-	* 25 Days Cycling Tour from Chengdu via Sichuan Tibet Highway (1338.434 mile), June 2013. 
+	* Cycling Tour from Chengdu via Sichuan Tibet Highway 318 (1338.434 mile), June 2013. 
