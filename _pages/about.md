@@ -10,7 +10,7 @@ About Me
 ====
 I am an assistant professor of Computer Science at Sacramento State University. I earned my Ph.D. degree in the [Department of Computer science](https://cs.utsa.edu/) at the University of Texas at San Antonio, where I have the fortune of being supervised by Dr. [Palden Lama](http://www.cs.utsa.edu/~plama/). 
 
-My research focuses on designing advanced system software and middleware solutions to optimize cloud and edge resource management, enhancing the Quality of Service for end users. These solutions are grounded on the principles of probabilistic machine learning, Bayesian optimization and game theory. I am also interested in IoT-Edge Intelligence, how to make AI/ML model efficiently running in the resource limited devices, such as Raspberry Pi and Jetson series devices, to solve the real-world problems. 
+My research focuses on designing advanced system software and middleware solutions to optimize cloud/edge resource management, enhancing the Quality of Service for end users. I am currently interested in IoT-Edge Intelligence, how to make AI/ML model efficiently running in the resource limited devices, such as Raspberry Pi and Jetson series devices, to solve the real-world problems, like Robotics and Smart City. 
 
 I enjoy communicating my work and talking with students who want to learn more about computer science. Please don't hesitate to reach out or come to my office (Riverside 5044, Office Hours: Tues/Thur 3:00 pm to 4:30 pm)!
 
