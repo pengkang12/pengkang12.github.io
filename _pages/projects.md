@@ -14,11 +14,15 @@ author_profile: true
 
       ![image info](../images/IoT.png)
 
-  * Hardware: Jetson Orin
-  * Operating System: Ubuntu
-  * Software Stack: Microk8s/Kubernetes, Container, StreamCV, Apache Storm, OpenCV, Pytorch
-  * Skills: Bash, Java, C++, Python
-
+  * Specifications:
+    * Hardware: Jetson Orin Series / Chameleon cloud
+    * Operating System: Ubuntu
+    * Software Stack: Microk8s/Kubernetes, Container, StreamCV, Apache Storm, OpenCV, Pytorch
+    * Skills: Bash, Java, C++, Python, Machine Learning
+  * Project includes two part:
+    * Explore the performance issues form application side
+    * Explore the infrastructure performance by optimizing software and hardware
+ 
 
 
 ## Operating System Progmatics with Real Hardware
