@@ -19,7 +19,7 @@ author_profile: true
     * Operating System: Ubuntu
     * Software Stack: Microk8s/Kubernetes, Container, StreamCV, Apache Storm, OpenCV, Pytorch
     * Skills: Bash, Java, C++, Python, Machine Learning
-  * Project includes two part:
+  * This project includes two parts:
     * Explore the performance issues form application side
     * Explore the infrastructure performance by optimizing software and hardware
  
