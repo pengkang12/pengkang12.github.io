@@ -9,15 +9,20 @@ author_profile: true
 
 ## Edge Stream Processing for Machine Learning Applications
   * Description
-    - The proliferation of IoT devices and the exponential growth in data generation have rendered Machine Learning (ML) training and serving systems at the network edge of paramount importance. The deployment of ML models at the edge offers real-time decision-making, minimized latency, enhanced data privacy, and localized intelligence. However, the limited computational power, memory, and constrained energy budgets on edge devices hinder the deployment of sophisticated ML models, particularly large language models. My future research will focus on developing system and middleware solutions for exploiting the ability of edge computing for ML model serving systems and distributed model training frameworks.
+    - The proliferation of IoT devices and the exponential growth in data generation have rendered Machine Learning (ML) training and serving systems at the network edge of paramount importance. The deployment of ML models at the edge offers real-time decision-making, minimized latency, enhanced data privacy, and localized intelligence. However, the limited computational power, memory, and constrained energy budgets on edge devices hinder the deployment of sophisticated ML models, particularly large language models.
+    - This research focus on developing system and middleware solutions for exploiting the ability of edge computing for ML model serving systems and distributed model training frameworks.
 
       ![image info](../images/IoT.png)
 
-  * Hardware: Jetson Orin
-  * Operating System: Ubuntu
-  * Software Stack: Microk8s/Kubernetes, Container, StreamCV, Apache Storm, OpenCV, Pytorch
-  * Skills: Bash, Java, C++, Python
-
+  * Specifications:
+    * Hardware: Jetson Orin Series / Chameleon cloud
+    * Operating System: Ubuntu
+    * Software Stack: Microk8s/Kubernetes, Container, StreamCV, Apache Storm, OpenCV, Pytorch
+    * Skills: Bash, Java, C++, Python, Machine Learning
+  * This project includes two parts:
+    * Explore the performance issues form application side
+    * Explore the infrastructure performance by optimizing software and hardware
+ 
 
 
 ## Operating System Progmatics with Real Hardware
@@ -32,4 +37,8 @@ author_profile: true
   * Hardware Simulation: QEMU
   * Software: C, Shell, Linux, GNU Compiler
   * Skills: Bash, C, make
+### Updated Progress 
+  * Nov: I am currently working on Disk and a file system for Project Phase 6B.
+  * Nov: I have built a demo file system into Project Phase 6A.
+  * Oct: I have built a virtual memory management and user mode into Project Phase 3.5.
 
