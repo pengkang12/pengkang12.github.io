@@ -37,10 +37,10 @@ Certificates
 Miscellany
 ======
 * Tennis. 
-	* National Tennis Rating Program 4.0+. 
+	* National Tennis Rating Program 4.0+
 	* Team winner, Texas Tennis on Campus Series at Texas A&M, Fall 2021.
 * Running. 
-	* Seoul International Marathon, 2017.
+	* Seoul International Marathon, 2017
 	* Texas Independence Relay, 200 miles, April, 2022 (Ranking: No.18 / Mixed).
-* Cycling. 
+* Cycling
 	* Cycling Tour from Chengdu via Sichuan Tibet Highway 318 (1338.434 mile), June 2013. 
