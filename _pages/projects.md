@@ -7,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+## LLM Serving with Edge Devices
+  * Description
+    - This project focus on improving the performance of LLM Serving system in resource limited scenarios, especially for Edge Computing.
+
+  * Specifications:
+    * Hardware: Jetson Orin Nano x3 
+    * Software Stack: KServe, Kubernetes, Container
+    * Skills: Serverless, Python, Large Language Model
+
 ## Edge Stream Processing for Machine Learning Applications
   * Description
     - The proliferation of IoT devices and the exponential growth in data generation have rendered Machine Learning (ML) training and serving systems at the network edge of paramount importance. The deployment of ML models at the edge offers real-time decision-making, minimized latency, enhanced data privacy, and localized intelligence. However, the limited computational power, memory, and constrained energy budgets on edge devices hinder the deployment of sophisticated ML models, particularly large language models.
