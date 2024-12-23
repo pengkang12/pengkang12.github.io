@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* Fall 2024, Sprng 2025
+* Fall 2024, Spring 2025
 	* CSC/CPE 159 Operating System Pragmatics, Lecturer
 		* [Class Syllabus](https://docs.google.com/document/d/1OYyOZoyeseAnQQzX-ALmAHFZt1ah43HU/edit?usp=sharing&ouid=110407991497263418226&rtpof=true&sd=true)
 		* [Class Projects](https://drive.google.com/file/d/1u6thlczTnHqV7ajLgfDGRxd-Jdrdz8lb/view?usp=sharing)
