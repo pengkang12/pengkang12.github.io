@@ -19,13 +19,13 @@ Education
 
 Work experience
 ======
-* California State University, Sacramento
+* Assistant Professor, California State University, Sacramento
   * Aug 2024 - Now, Sacramento.
 
-* Software engineering intern, Google, Inc
+* Software Engineering Intern, Google, Inc
   * May 2022 - Aug. 2022, Pittsburgh.
 
-* Site reliability engineering, Baidu Waimai, Inc 
+* Site Reliability Engineer, Baidu Waimai, Inc 
   * Oct. 2016 - Mar. 2017, Beijing.
 
 Certificates
