@@ -20,7 +20,7 @@ author_profile: true
 ## Semi-decentralized Serverless Edge Stream processing at the Edge Network
   * Description
     - The rapid growth of Internet of Things (IoT) devices has amplified the demand for real-time stream processing at the network edge, a critical enabler for smart cities, self-driving cars, online gaming, virtual reality, and augmented reality. However, existing edge stream processing systems and Kubernetes infrastructures rely on centralized management, creating bottlenecks in scalability, fault tolerance, and resource efficiency.
-    - This project proposes a heterogeneous serverless edge stream processing engine to address these challenges by leveraging the Function-as-a-Service (FaaS) model. The engine supports diverse distributed edge applications, such as data analytics, edge AI, and media streaming, through a decentralized and scalable architecture.
+    - This project proposes a heterogeneous serverless edge stream processing engine to address these challenges by leveraging the Function-as-a-Service (FaaS) model. The engine supports diverse distributed edge applications, such as edge AI and media streaming, through a semi-decentralized and scalable architecture.
 
       ![image info](../images/IoT.png)
 
