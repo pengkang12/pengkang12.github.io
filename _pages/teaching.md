@@ -26,10 +26,10 @@ author_profile: true
 	
 
 ## Current Students
-
+* CSUS
+	-	Masters: Alexander Oswalt
+ 	-	Undergraduate students: Illya Gorddy
 
 ## Past Students
-### Undergraduate students
-
 * UTSA
-	-	Cesar Hinojosa, Matthew Martinez, Thomas Brooks, William Clifford
+	-	Undergraduate students: Cesar Hinojosa, Matthew Martinez, Thomas Brooks, William Clifford
