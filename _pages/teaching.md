@@ -14,7 +14,7 @@ author_profile: true
 	* CSC 190 Senior Project, Lab Advisor
 * Spring 2024
 	* CS 4613 [Senior Design](https://docs.google.com/document/d/1WkM3TWNvVBtJfX6Al_4_xWi224NkJsmkLir3FjT__T4/edit?usp=sharing), Lab advisor
-	* CS 4843 Cloud Computing, Teaching Assitant
+	* CS 4843 Cloud Computing, Teaching Assistant
 * Fall 2023
 	* CS 3423 System Programming Lab Recitation, Teaching Assistant
 * Fall 2022, Spring 2023, Summer 2023
@@ -27,8 +27,8 @@ author_profile: true
 
 ## Current Students
 * CSUS
-	-	Masters: Alexander Oswalt
- 	-	Undergraduate students: Illya Gorddy
+ -	Masters: Alexander Oswalt
+ -	Undergraduate students: Illya Gorddy
 
 ## Past Students
 * UTSA
