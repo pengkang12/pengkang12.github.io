@@ -27,8 +27,8 @@ author_profile: true
 
 ## Current Students
 * CSUS
- -	Masters: Alexander Oswalt
- -	Undergraduate students: Illya Gorddy
+ 	-	Masters: Alexander Oswalt
+ 	-	Undergraduate students: Illya Gorddy
 
 ## Past Students
 * UTSA
