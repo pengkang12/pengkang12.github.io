@@ -16,9 +16,11 @@ I am currently interested in ML Serving/Inference, how to make AI/ML model effic
 
 I enjoy communicating my work and talking with students who want to learn more about computer science. Please don't hesitate to reach out or come to my office (Riverside 5044)!
 
+<span style="color: red;"> If you're interested in conducting research with me or having me mentor your master's project, please send me your transcript and CV. Before I agree to mentor your master's project, I prefer that you complete the CSC/CPE 159 course!</span> 
+
 News
 ====
-<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Dec, 2024</span> My project, "StreamlessEdgeOrch: Semi-decentralized Serverless Edge Stream processing at the Edge Network", is supported by Chameleon Cloud! Thanks Chameleon and NSF!
+<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Jan, 2025</span> My project, "StreamlessEdgeOrch: Semi-decentralized Serverless Edge Stream processing at the Edge Network", is supported by Chameleon Cloud! Thanks Chameleon and NSF!
 
 <span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Dec, 2024</span> I will teach CSC/CPE 159 Operating System Progmatics in Spring 2025! 
 
