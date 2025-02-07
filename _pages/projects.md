@@ -29,14 +29,11 @@ author_profile: true
   * Description
     - This project is designed to provide students with hands-on, practical experience in applying the operating system principles learned in CSC 139, ensuring they develop a solid and comprehensive understanding of the design and implementation challenges involved in modern operating system development. I am currently updating these iterative projects to align with the latest hardware advancements. The project will cover key areas such as the project environment, hardware drivers, interrupts, CPU scheduling, memory management, and file systems.
 
-  	![image info](../images/159-CurrentProject-new.png)
+  	![image info](../images/159-CurrentProject-new.png){width=50%}
 
   * [Project Slides](https://drive.google.com/file/d/1u6thlczTnHqV7ajLgfDGRxd-Jdrdz8lb/view?usp=sharing)
-  * Hardware architecture: x86/Arm64
-  * Hardware: Raspberry
-  * Hardware Simulation: QEMU
-  * Software: C, Shell, Linux, GNU Compiler
-  * Skills: Bash, C, make
+  * Hardware architecture: x86 (QEMU) /Arm64 (Raspberry Pi)
+  * Skills: C, Shell, Linux, GNU Compiler, xv6
 ### Updated Progress 
   * Nov: I am currently working on Disk and a file system for Project Phase 6B.
   * Nov: I have built a demo file system into Project Phase 6A.
