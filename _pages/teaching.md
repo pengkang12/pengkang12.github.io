@@ -26,10 +26,10 @@ author_profile: true
 	
 
 ## Current Students
-* CSUS
-	* Masters: Alexander Oswalt
-	* Undergraduate students: Illya Gorddy
+- **CSUS**
+	- Masters: Alexander Oswalt, Peeja Khorashadi, Pravallika Dharmavarapu, Ram Perumalla
+	- Undergraduate students: Illya Gorddy
 
 ## Past Students
-* UTSA
-	-	Undergraduate students: Cesar Hinojosa, Matthew Martinez, Thomas Brooks, William Clifford
+- **UTSA**
+	- Undergraduate students: Cesar Hinojosa, Matthew Martinez, Thomas Brooks, William Clifford
