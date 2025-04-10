@@ -7,6 +7,24 @@ author_profile: true
 
 {% include base_path %}
 
+## Operating System Progmatics
+  * Description
+    - This project is designed to provide students with hands-on, practical experience in applying the operating system principles learned in CSC 139, ensuring they develop a solid and comprehensive understanding of the design and implementation challenges involved in modern operating system development. I am currently updating these iterative projects to align with the latest hardware advancements. The project will cover key areas such as the project environment, hardware drivers, interrupts, CPU scheduling, memory management, and file systems.
+
+  	![image info](../images/159-CurrentProject-new.png){width=50%}
+
+  * [Project Slides](https://drive.google.com/file/d/1u6thlczTnHqV7ajLgfDGRxd-Jdrdz8lb/view?usp=sharing)
+  * Hardware Simulation: QEMU (x86)
+  * Cloud Platform: Chameleon Cloud
+  * Software: C, Shell, Linux (Mint), GNU Compiler, KVM
+  * Skills: Bash, C, make, Container
+* Update
+  * Mar, 25: I am currently working on TigerVNC to build multi-desktop environment. 
+  * Feb, 25: I rebuilt SpedeVM to Chameleoncloud (openstack/kvm) and MacAir M3 Chips (Arm64). 
+  * Dec, 24: I am currently working on Disk and a file system for Project Phase 6B.
+  * Nov, 24: I have built a simple file system into Project Phase 6A.
+  * Oct, 24: I have built a virtual memory management and user mode into Project Phase 3B.
+
 ## LLM Serving with Edge Devices
   * Description
     - The proliferation of IoT devices and the exponential growth in data generation have rendered Machine Learning (ML) training and serving systems at the network edge of paramount importance. The deployment of ML models at the edge offers real-time decision-making, minimized latency, enhanced data privacy, and localized intelligence. However, the limited computational power, memory, and constrained energy budgets on edge devices hinder the deployment of sophisticated ML models, particularly large language models.
@@ -30,21 +48,4 @@ author_profile: true
     * Software Stack: Microk8s/Kubernetes, Container, StreamCV, Apache Flink, OpenCV, Pytorch
     * Skills: Bash, Java, C++, Python
 
-## Operating System Progmatics with Real Hardware (Raspberry Pi)
-  * Description
-    - This project is designed to provide students with hands-on, practical experience in applying the operating system principles learned in CSC 139, ensuring they develop a solid and comprehensive understanding of the design and implementation challenges involved in modern operating system development. I am currently updating these iterative projects to align with the latest hardware advancements. The project will cover key areas such as the project environment, hardware drivers, interrupts, CPU scheduling, memory management, and file systems.
-
-  	![image info](../images/159-CurrentProject-new.png){width=50%}
-
-  * [Project Slides](https://drive.google.com/file/d/1u6thlczTnHqV7ajLgfDGRxd-Jdrdz8lb/view?usp=sharing)
-  * Hardware Simulation: QEMU (x86/Arm64)
-  * Hardware: Raspberry
-  * Software: C, Shell, Linux, GNU Compiler
-  * Skills: Bash, C, make
-* Update
-  * Feb, 25: I rebuilt SpedeVM to Chameleoncloud (openstack/kvm) and MacAir M3 Chips. 
-  * Nov, 24: I am currently working on Disk and a file system for Project Phase 6B.
-  * Nov, 24: I am currently working on Disk and a file system for Project Phase 6B.
-  * Nov, 24: I have built a demo file system into Project Phase 6A.
-  * Oct, 24: I have built a virtual memory management and user mode into Project Phase 3B.
 
