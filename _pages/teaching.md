@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 {% include base_path %}
+* Summer 2025
+        * CSC 139 Operating System Principles, Lecturer
+                * [Class Syllabus](https://docs.google.com/document/d/1Np9_3EXmzp9MgvUHAXzesyHEKbcO7hxw/edit?usp=sharing&ouid=110407991497263418226&rtpof=true&sd=true)
 
 * Fall 2024, Spring 2025
 	* CSC/CPE 159 Operating System Pragmatics, Lecturer
@@ -26,10 +29,10 @@ author_profile: true
 	
 
 ## Current Students
-* CSUS
-	* Masters: Alexander Oswalt
-	* Undergraduate students: Illya Gorddy
+- **CSUS**
+	- Masters: Alexander Oswalt, Peeja Khorashadi, Pravallika Dharmavarapu, Ram Perumalla
+	- Undergraduate students: Illya Gorddy
 
 ## Past Students
-* UTSA
-	-	Undergraduate students: Cesar Hinojosa, Matthew Martinez, Thomas Brooks, William Clifford
+- **UTSA**
+	- Undergraduate students: Cesar Hinojosa, Matthew Martinez, Thomas Brooks, William Clifford
