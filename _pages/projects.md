@@ -11,7 +11,7 @@ author_profile: true
   * Description
     - This project is designed to provide students with hands-on, practical experience in applying the operating system principles learned in CSC 139, ensuring they develop a solid and comprehensive understanding of the design and implementation challenges involved in modern operating system development. I am currently updating these iterative projects to align with the latest hardware advancements. The project will cover key areas such as the project environment, hardware drivers, interrupts, CPU scheduling, memory management, and file systems.
 
-  	![image info](../images/159-CurrentProject-new.png){width=50%}
+  	![image info](../images/159-CurrentProject-new.png)
 
   * [Project Slides](https://drive.google.com/file/d/1u6thlczTnHqV7ajLgfDGRxd-Jdrdz8lb/view?usp=sharing)
   * Hardware Simulation: QEMU (x86)
