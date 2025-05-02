@@ -19,9 +19,10 @@ author_profile: true
   * Software: C, Shell, Linux (Mint), GNU Compiler, KVM
   * Skills: Bash, C, make, Container
 * Update
-  * Mar, 25: I am currently working on TigerVNC to build multi-desktop environment. 
+  * May, 25: I am currently working on Disk and a file system for Project Phase 7.
+  * Apr, 25: I have implemented User/Kernel mode and Virtual Memory management into Project Phase 6B. 
+  * Mar, 25: I have implemented on TigerVNC to build multi-desktop environment. 
   * Feb, 25: I rebuilt SpedeVM to Chameleoncloud (openstack/kvm) and MacAir M3 Chips (Arm64). 
-  * Dec, 24: I am currently working on Disk and a file system for Project Phase 6B.
   * Nov, 24: I have built a simple file system into Project Phase 6A.
   * Oct, 24: I have built a virtual memory management and user mode into Project Phase 3B.
 
@@ -34,6 +35,8 @@ author_profile: true
     * Hardware: Jetson Orin Nano x3 
     * Software Stack: KServe, Kubernetes, Container
     * Skills: Serverless, Python, Large Language Model
+  * Update
+    * I am playing vllm serving system right now. 
 
 ## Semi-decentralized Serverless Edge Stream processing at the Edge Network
   * Description
