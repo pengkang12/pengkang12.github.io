@@ -27,3 +27,4 @@ Miscellany
 * Cycling
   - I currently commute to school by bike.
   - Cycling Tour from Chengdu via Sichuan Tibet Highway 318 (1338.434 mile), June 2013. 
+* [The book reading lists](https://docs.google.com/document/d/1p-asLorRYaDAqOohKln-tjVcfkeuaxedB1tBv0b0_88/edit?usp=drive_link)
