@@ -36,7 +36,7 @@ author_profile: true
 
 ## Current Students
 - **CSUS**
-	- Masters: Alexander Oswalt, Peeja Khorashadi, Pravallika Dharmavarapu, Ram Perumalla
+	- Masters: Alexander Oswalt, John Spaugh, Pravallika Dharmavarapu, Ram Perumalla
 	- Undergraduate students: Illya Gorddy
 
 ## Past Students
