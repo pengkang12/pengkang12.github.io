@@ -19,9 +19,8 @@ author_profile: true
   * Software: C, Shell, Linux (Mint), GNU Compiler, KVM
   * Skills: Bash, C, make, Container
 * Update
-  * May, 25: I am currently working on Disk and a file system for Project Phase 7 (I need to rewrite the current scheduler mechanism to support multiple kernel stack).
+  * May, 25: I am currently working on Disk and a file system for Project Phase 7 (need to asynchronous interrupt support).
   * Apr, 25: I have implemented User/Kernel mode and Virtual Memory management into Project Phase 6B. 
-  * Mar, 25: I have implemented on TigerVNC to build multi-desktop environment. 
   * Feb, 25: I rebuilt SpedeVM to Chameleoncloud (openstack/kvm) and MacAir M3 Chips (Arm64). 
   * Nov, 24: I have built a simple file system into Project Phase 6A.
   * Oct, 24: I have built a virtual memory management and user mode into Project Phase 3B.
@@ -46,7 +45,7 @@ author_profile: true
       ![image info](../images/IoT.png)
 
   * Specifications:
-    * Hardware: Jetson Orin Series / Chameleon cloud
+    * Hardware: Rapberry Pi 5 (x10)/ Jetson Orin Series (x3) / Chameleon cloud
     * Operating System: Ubuntu
     * Software Stack: Microk8s/Kubernetes, Container, StreamCV, Apache Flink, OpenCV, Pytorch
     * Skills: Bash, Java, C++, Python
