@@ -19,7 +19,8 @@ author_profile: true
   * Software: C, Shell, Linux (Mint), GNU Compiler, KVM
   * Skills: Bash, C, make, Container
 * Update
-  * May, 25: I am currently working on Disk and a file system for Project Phase 7 (need to asynchronous interrupt support).
+  * Sep, 25: Currently working on to asynchronous interrupt support and kernel scheduler.
+  * Sep, 25: I have implemented port serials communication into Project Phase 5B. 
   * Apr, 25: I have implemented User/Kernel mode and Virtual Memory management into Project Phase 6B. 
   * Feb, 25: I rebuilt SpedeVM to Chameleoncloud (openstack/kvm) and MacAir M3 Chips (Arm64). 
   * Nov, 24: I have built a simple file system into Project Phase 6A.
