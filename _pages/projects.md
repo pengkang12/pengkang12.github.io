@@ -11,7 +11,7 @@ author_profile: true
   * Description
     - This project is designed to provide students with hands-on, practical experience in applying the operating system principles learned in CSC 139, ensuring they develop a solid and comprehensive understanding of the design and implementation challenges involved in modern operating system development. I am currently updating these iterative projects to align with the latest hardware advancements. The project will cover key areas such as the project environment, hardware drivers, interrupts, CPU scheduling, memory management, and file systems.
 
-  	![image info](../images/159-CurrentProject-new.png)
+  	![image info](../images/159-CurrentProject-new.png){: width="50%" style="display: block; margin: 0 auto;"}
 
   * [Project Slides](https://drive.google.com/file/d/1u6thlczTnHqV7ajLgfDGRxd-Jdrdz8lb/view?usp=sharing)
   * Hardware Simulation: QEMU (x86)
@@ -30,9 +30,9 @@ author_profile: true
   * Description
     - The proliferation of IoT devices and the exponential growth in data generation have rendered Machine Learning (ML) training and serving systems at the network edge of paramount importance. The deployment of ML models at the edge offers real-time decision-making, minimized latency, enhanced data privacy, and localized intelligence. However, the limited computational power, memory, and constrained energy budgets on edge devices hinder the deployment of sophisticated ML models, particularly large language models.
     - This research focus on developing system and middleware solutions for exploiting the ability of edge computing for ML model serving systems and distributed model training frameworks.
-  ![image info](../images/jetson.jpg)
+  ![image info](../images/jetson.jpg){: width="50%" style="display: block; margin: 0 auto;"}
   * Specifications:
-    * Hardware: Jetson Orin Nano x3 
+    * Hardware: Jetson AGX Orin (x3) and Jetson Orin Nano (x3)
     * Software Stack: KServe, Kubernetes, Container
     * Skills: Serverless, Python, Large Language Model
   * Update
@@ -43,7 +43,7 @@ author_profile: true
     - The rapid growth of Internet of Things (IoT) devices has amplified the demand for real-time stream processing at the network edge, a critical enabler for smart cities, self-driving cars, online gaming, virtual reality, and augmented reality. However, existing edge stream processing systems and Kubernetes infrastructures rely on centralized management, creating bottlenecks in scalability, fault tolerance, and resource efficiency.
     - This project proposes a heterogeneous serverless edge stream processing engine to address these challenges by leveraging the Function-as-a-Service (FaaS) model. The engine supports diverse distributed edge applications, such as edge AI and media streaming, through a semi-decentralized and scalable architecture.
 
-      ![image info](../images/IoT.png)
+      ![image info](../images/IoT.png){: width="70%" style="display: block; margin: 0 auto;"}
 
   * Specifications:
     * Hardware: Rapberry Pi 5 (x10)/ Jetson Orin Series (x3) / Chameleon cloud
