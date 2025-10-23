@@ -21,7 +21,7 @@ Miscellany
 * Tennis
   - National Tennis Rating Program 4.0+
   - Team winner, Texas Tennis on Campus Series at Texas A&M, Fall 2021.
-	![image info](../images/tennis.jpg){: width="50%" style="display: block; margin: 0 auto;"}
+	![image info](../images/tennis.jpeg){: width="50%" style="display: block; margin: 0 auto;"}
 * Running 
   - Seoul International Marathon, 2017
   - Texas Independence Relay, 200 miles, April, 2022 (Ranking: No.18 / Mixed).
