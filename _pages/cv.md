@@ -21,10 +21,14 @@ Miscellany
 * Tennis
   - National Tennis Rating Program 4.0+
   - Team winner, Texas Tennis on Campus Series at Texas A&M, Fall 2021.
+  	![image info](../images/tennis.jpg){: width="50%" style="display: block; margin: 0 auto;"}
+
 * Running 
   - Seoul International Marathon, 2017
   - Texas Independence Relay, 200 miles, April, 2022 (Ranking: No.18 / Mixed).
+
 * Cycling
   - I currently commute to school by bike.
+	![image info](../images/bike.jpg){: width="50%" style="display: block; margin: 0 auto;"}
   - Cycling Tour from Chengdu via Sichuan Tibet Highway 318 (1338.434 mile), June 2013. 
-* [The book reading lists](https://docs.google.com/document/d/1p-asLorRYaDAqOohKln-tjVcfkeuaxedB1tBv0b0_88/edit?usp=drive_link)
+* [Reading](https://docs.google.com/document/d/1p-asLorRYaDAqOohKln-tjVcfkeuaxedB1tBv0b0_88/edit?usp=drive_link)
