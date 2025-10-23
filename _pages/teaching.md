@@ -20,7 +20,8 @@ author_profile: true
 
 * Fall 2024, Spring 2025, Fall 2025
 	* CSC 190 Senior Project, Lab Advisor
-
+		* [Class Syllabus](https://docs.google.com/document/d/1aiItb5UymTLD6MDp0MT-cNuhmnEzO_4a9VuCvuOG51k/edit?usp=sharing)
+    
 * Spring 2024
 	* CS 4613 [Senior Design](https://docs.google.com/document/d/1WkM3TWNvVBtJfX6Al_4_xWi224NkJsmkLir3FjT__T4/edit?usp=sharing), Lab advisor
 	* CS 4843 Cloud Computing, Teaching Assistant
