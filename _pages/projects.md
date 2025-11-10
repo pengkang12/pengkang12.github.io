@@ -7,24 +7,25 @@ author_profile: true
 
 {% include base_path %}
 
-## Operating System Progmatics
+## Operating System Pragmatics
   * Description
     - This project is designed to provide students with hands-on, practical experience in applying the operating system principles learned in CSC 139, ensuring they develop a solid and comprehensive understanding of the design and implementation challenges involved in modern operating system development. I am currently updating these iterative projects to align with the latest hardware advancements. The project will cover key areas such as the project environment, hardware drivers, interrupts, CPU scheduling, memory management, and file systems.
 
   	![image info](../images/159-CurrentProject-new.png){: width="50%" style="display: block; margin: 0 auto;"}
 
   * [Project Slides](https://drive.google.com/file/d/1u6thlczTnHqV7ajLgfDGRxd-Jdrdz8lb/view?usp=sharing)
-  * Hardware Simulation: QEMU (x86)
+  * Hardware/Simulation: QEMU (x86, aarch64), ARM
   * Cloud Platform: Chameleon Cloud
   * Software: C, Shell, Linux (Mint), GNU Compiler, KVM
   * Skills: Bash, C, make, Container
 * Update
-  * Sep, 25: Currently working on to asynchronous interrupt support and kernel scheduler.
-  * Sep, 25: I have implemented port serials communication into Project Phase 5B. 
-  * Apr, 25: I have implemented User/Kernel mode and Virtual Memory management into Project Phase 6B. 
-  * Feb, 25: I rebuilt SpedeVM to Chameleoncloud (openstack/kvm) and MacAir M3 Chips (Arm64). 
-  * Nov, 24: I have built a simple file system into Project Phase 6A.
-  * Oct, 24: I have built a virtual memory management and user mode into Project Phase 3B.
+  * October 2025: Currently developing the yield functionality and running the operating system on a Raspberry Pi 5.
+  * September 2025: Implemented serial port communication for Project Phase 5B.
+  * August 2025: Built two departmental servers to support class requirements, allowing students to use the servers for their projects.
+  * April 2025: Added user/kernel mode and virtual memory management to Project Phase 6B.
+  * February 2025: Rebuilt SpedeVM for deployment on Chameleon Cloud (OpenStack/KVM) and Apple MacBook Air M3 (Arm64 architecture).
+  * November 2024: Developed a simple file system for Project Phase 6A.
+  * October 2024: Implemented virtual memory management and user mode for Project Phase 3B.
 
 ## LLM Serving with Edge Devices
   * Description
@@ -32,7 +33,7 @@ author_profile: true
     - This research focus on developing system and middleware solutions for exploiting the ability of edge computing for ML model serving systems and distributed model training frameworks.
   ![image info](../images/jetson.jpg){: width="50%" style="display: block; margin: 0 auto;"}
   * Specifications:
-    * Hardware: Jetson AGX Orin (x3) and Jetson Orin Nano (x3)
+    * Hardware: Jetson AGX Orin (x3) and Jetson Orin Nano 8GB (x3)
     * Software Stack: KServe, Kubernetes, Container
     * Skills: Serverless, Python, Large Language Model
   * Update
@@ -46,9 +47,7 @@ author_profile: true
       ![image info](../images/IoT.png){: width="70%" style="display: block; margin: 0 auto;"}
 
   * Specifications:
-    * Hardware: Rapberry Pi 5 (x10)/ Jetson Orin Series (x3) / Chameleon cloud
+    * Hardware: Rapberry Pi 5 (x10)/ Jetson Orin Nano 8GB (x3) / Chameleon cloud
     * Operating System: Ubuntu
     * Software Stack: Microk8s/Kubernetes, Container, StreamCV, Apache Flink, OpenCV, Pytorch
     * Skills: Bash, Java, C++, Python
-
-
