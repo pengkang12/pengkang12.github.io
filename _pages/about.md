@@ -20,9 +20,11 @@ I enjoy communicating my work and talking with students who want to learn more a
 
 News
 ====
+<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Nov, 2025</span> Congratulations! Our poster, "Bridging Hardware Barriers in Operating Systems Education through Hybrid Cloud Infrastructure", has been accepted to <span style="color: red;"> SIGCSE TS 2026 </span>!
+
+
 <span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Jan, 2025</span> My project, "StreamlessEdgeOrch: Semi-decentralized Serverless Edge Stream processing at the Edge Network", is supported by Chameleon Cloud! Thanks Chameleon and NSF!
 
-<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Dec, 2024</span> I will teach CSC/CPE 159 Operating System Progmatics in Spring 2025! 
 
 <span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">July, 2024</span> Congratulations! Two of our papers have been accepted to <span style="color: red;"> Cloud Summit 2025</span>, with one recognized as <span style="color: red;">the Best Paper </span>.
 
