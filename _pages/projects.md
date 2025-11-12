@@ -11,7 +11,7 @@ author_profile: true
   * Description
     - This project is designed to provide students with hands-on, practical experience in applying the operating system principles learned in CSC 139, ensuring they develop a solid and comprehensive understanding of the design and implementation challenges involved in modern operating system development. I am currently updating these iterative projects to align with the latest hardware advancements. The project will cover key areas such as the project environment, hardware drivers, interrupts, CPU scheduling, memory management, and file systems.
 
-  	![image info](../images/159-CurrentProject-new.png){: width="50%" style="display: block; margin: 0 auto;"}
+  	![image info](../images/159-Project.jpg){: width="50%" style="display: block; margin: 0 auto;"}
 
   * [Project Slides](https://drive.google.com/file/d/1u6thlczTnHqV7ajLgfDGRxd-Jdrdz8lb/view?usp=sharing)
   * Hardware/Simulation: QEMU (x86, aarch64), ARM
@@ -39,15 +39,13 @@ author_profile: true
   * Update
     * I am playing vllm serving system right now. 
 
-## Semi-decentralized Serverless Edge Stream processing at the Edge Network
+## Video To LLM 
   * Description
     - The rapid growth of Internet of Things (IoT) devices has amplified the demand for real-time stream processing at the network edge, a critical enabler for smart cities, self-driving cars, online gaming, virtual reality, and augmented reality. However, existing edge stream processing systems and Kubernetes infrastructures rely on centralized management, creating bottlenecks in scalability, fault tolerance, and resource efficiency.
-    - This project proposes a heterogeneous serverless edge stream processing engine to address these challenges by leveraging the Function-as-a-Service (FaaS) model. The engine supports diverse distributed edge applications, such as edge AI and media streaming, through a semi-decentralized and scalable architecture.
-
-      ![image info](../images/IoT.png){: width="70%" style="display: block; margin: 0 auto;"}
+    - This project proposes a heterogeneous serverless edge stream processing engine to address these challenges by leveraging the Function-as-a-Service (FaaS) model. The engine supports diverse distributed edge applications, such as edge AI and media streaming.
 
   * Specifications:
-    * Hardware: Rapberry Pi 5 (x10)/ Jetson Orin Nano 8GB (x3) / Chameleon cloud
+    * Hardware: Rapberry Pi 5 (x10)/ Jetson Orin Nano 8GB (x3) / Jetson AGX Orin / Chameleon cloud
     * Operating System: Ubuntu
-    * Software Stack: Microk8s/Kubernetes, Container, StreamCV, Apache Flink, OpenCV, Pytorch
+    * Software Stack: Microk8s/Kubernetes, Container, Nvidia Deepstream, OpenCV, Pytorch
     * Skills: Bash, Java, C++, Python
