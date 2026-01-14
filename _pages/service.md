@@ -16,7 +16,7 @@ author_profile: true
 	- Sprinter Nature: Automated Software Engineering (ASE) 2025	
 	- IEEE International Conference on Data Mining (ICDM), 2024
 	- IEEE Transactions on Network Science and Engineering (TNSE), 2023
-	- IEEE International Conference on Communications (ICC), 2022
+	- IEEE International Conference on Communications (ICC), 2022, 2026
 
 * Webmaster
 	- IEEE Computer Society Technical Committee on Distributed Processing (TCDP), 2020 - 2024
