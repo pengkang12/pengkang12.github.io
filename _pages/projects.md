@@ -49,3 +49,5 @@ author_profile: true
     * Operating System: Ubuntu
     * Software Stack: Microk8s/Kubernetes, Container, Nvidia Deepstream, OpenCV, Pytorch
     * Skills: Bash, Java, C++, Python
+  ![image info](../images/cluster.jpg){: width="50%" style="display: block; margin: 0 auto;"}
+ 
