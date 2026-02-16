@@ -8,11 +8,11 @@ redirect_from:
 ---
 About Me
 ====
-I am an assistant professor in the department of Computer Science at Sacramento State University. I earned my Ph.D. degree in the [Department of Computer science](https://cs.utsa.edu/) at the University of Texas at San Antonio, where I have the fortune of being supervised by Dr. [Palden Lama](http://www.cs.utsa.edu/~plama/). In 2022, I interned at the Google (Pittsburgh). From 2016 to 2017, I briefly worked at Baidu Waimai (Beijing) before deciding to pursue a startup venture.
+I am an assistant professor in the department of Computer Science at Sacramento State University. I earned my Ph.D. degree in the [Department of Computer science](https://cs.utsa.edu/) at the University of Texas at San Antonio. In 2022, I interned at the Google (Pittsburgh). From 2016 to 2017, I briefly worked at Baidu Waimai (Beijing) before deciding to pursue a startup venture.
 
 My research focuses on designing advanced system software and middleware solutions to optimize cloud/edge resource management, enhancing the Quality of Service for end users. 
 
-I am currently interested in ML Serving/Inference, how to make AI/ML model efficiently running in the IoT-Edge (resource limited devices, such as Nvidia Jetson Orin Nano), to solve the real-world problems, like Robotics and Smart City. 
+I am currently interested in ML Serving/Inference, how to make AI/ML model efficiently running in the IoT-Edge (resource limited devices, such as Nvidia Jetson Orin), to solve the real-world problems, like Robotics and Smart City. 
 
 I enjoy communicating my work and talking with students who want to learn more about computer science. Please don't hesitate to reach out or come to my office (Riverside 5044)!
 
