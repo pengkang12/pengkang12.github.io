@@ -22,16 +22,4 @@ News
 ====
 <span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Nov, 2025</span> Congratulations! Our poster, "Bridging Hardware Barriers in Operating Systems Education through Hybrid Cloud Infrastructure", has been accepted to <span style="color: red;"> SIGCSE TS 2026 </span>!
 
-
-<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Jan, 2025</span> My project, "StreamlessEdgeOrch: Semi-decentralized Serverless Edge Stream processing at the Edge Network", is supported by Chameleon Cloud! Thanks Chameleon and NSF!
-
-
-<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">July, 2024</span> Congratulations! Two of our papers have been accepted to <span style="color: red;"> Cloud Summit 2025</span>, with one recognized as <span style="color: red;">the Best Paper </span>.
-
-<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Mar, 2024</span> <span style="color: red;">CCGrid 2024 travel grant</span> is funded by NSF! Many thanks to NSF and Dr. Tyler Allen.
-
-<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Mar, 2024</span> Congratulations! Our paper is accepted by IPDPS <span style="color: red;">PAISE 2024</span>.
-
-<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Feb, 2024</span> Congratulations! Our paper is accepted by <span style="color: red;">CCGrid 2024</span>.
-
 <span>...</span>
