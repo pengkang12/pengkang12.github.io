@@ -10,9 +10,7 @@ About Me
 ====
 I am an assistant professor in the department of Computer Science at Sacramento State University. I earned my Ph.D. degree in the [Department of Computer science](https://cs.utsa.edu/) at the University of Texas at San Antonio. In 2022, I interned at the Google (Pittsburgh).
 
-My research focuses on designing advanced system software and middleware solutions to optimize cloud/edge resource management, enhancing the Quality of Service for end users. 
-
-I am currently interested in ML Serving/Inference, how to make AI/ML model efficiently running in the IoT-Edge (resource limited devices, such as Nvidia Jetson Orin), to solve the real-world problems, like Robotics and Smart City. 
+I am currently interested in AI for systems research, specifically how AI techniques can be applied to improve system efficiency and to design more intelligent and adaptive computer systems.
 
 I enjoy communicating my work and talking with students who want to learn more about computer science. Please don't hesitate to reach out or come to my office (Riverside 5044)!
 
