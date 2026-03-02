@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+* Organizing Committee
+  	- The Technical Symposium on Computer Science Education (SIGCSE TS) 2027, Affiliated Events Co-Chair
+  	  
 * Session Chair
 	- IEEE International Symposium on Cluster, Cloud and Internet Computing, 2024
 
