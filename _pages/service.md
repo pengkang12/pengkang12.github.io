@@ -24,8 +24,3 @@ author_profile: true
 * Webmaster
 	- IEEE Computer Society Technical Committee on Distributed Processing (TCDP), 2020 - 2024
 
-* Professional Memberships
-	- IEEE Member (2019 - Now)
-	- California Faculty Association (2024 - Now)
-
-
