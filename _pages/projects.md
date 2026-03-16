@@ -19,7 +19,8 @@ author_profile: true
   * Software: C, Shell, Linux (Mint), GNU Compiler, KVM
   * Skills: Bash, C, make, Container
 * Update
-  * October 2025: Currently developing the yield functionality and running the operating system on a Raspberry Pi 5.
+  * March 2026: Built bootloader and GDB-stub for raspberry Pi 4. 
+  	![image info](../images/pi5-pi4.jpg){: width="50%" style="display: block; margin: 0 auto;"}
   * September 2025: Implemented serial port communication for Project Phase 5B.
   * August 2025: Built two departmental servers to support class requirements, allowing students to use the servers for their projects.
   * April 2025: Added user/kernel mode and virtual memory management to Project Phase 6B.
