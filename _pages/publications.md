@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-
+* **Peng Kang**, Palden Lama, "Bridging Hardware Barriers in Operating Systems Education through Hybrid Cloud Infrastructure", In the Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.2, St. Louis, MO, USA, 2026.
 * Faiza Akram, **Peng Kang**, Palden Lama, Samee U. Khan, "Data-priority Aware Fair Task Scheduling for Stream Processing at the Edge", In the 8th IEEE Cloud Summit, Washington, DC, USA, 2024. (Selected as the best paper).
 * Hasanul Mahmud, **Peng Kang**, Kevin Desai, Palden Lama and Sushil Prasad, "Enhanced Converting Autoencoder based Framework for Low-latency Energy-efficient DNN with SLO-constraints", In the 8th IEEE Cloud Summit, Washington, DC, USA, 2024.
 * H. Mahmud, **P. Kang**, K. Desai, P. Lama and S. Prasad, "A Converting Autoencoder Toward Low-latency and Energy-efficient DNN Inference at the Edge", In the 6th Workshop on Parallel AI and Systems for the Edge (PAISE), San Francisco, USA, May 2024.
