@@ -33,9 +33,12 @@ author_profile: true
 
 ## Current Students
 - **CSUS**
-	- Masters: Alexander Oswalt, John Spaugh, Pravallika Dharmavarapu, Ram Perumalla
+	- Masters: Alexander Oswalt
 	- Undergraduate students: Illya Gorddy
 
 ## Past Students
+- **CSUS**
+	- Masters: John Spaugh, Pravallika Dharmavarapu, Ram Perumalla
+
 - **UTSA**
 	- Undergraduate students: Cesar Hinojosa, Matthew Martinez, Thomas Brooks, William Clifford
