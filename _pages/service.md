@@ -14,8 +14,8 @@ author_profile: true
 	- IEEE International Symposium on Cluster, Cloud and Internet Computing, 2024
 
 * Reviewer
-        - International Conference on Machine Learning and Applications (ICMLA), 2026	
-        - IEEE Cloud Summit 2025
+	- International Conference on Machine Learning and Applications (ICMLA), 2026	
+	- IEEE Cloud Summit 2025
 	- ACM Transactions on Internet Technology (TOIT) 2025
 	- Sprinter Nature: Automated Software Engineering (ASE) 2025	
 	- IEEE International Conference on Data Mining (ICDM), 2024
