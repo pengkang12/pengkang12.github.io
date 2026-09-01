@@ -16,6 +16,8 @@ I enjoy communicating my work and talking with students who want to learn more a
 
 <span style="color: red;"> For current sac state students, if you're interested in conducting research with me or having me mentor your master's project, I prefer that you complete the CSC 159 Operating System Pragmatics!</span> 
 
+<span>Office Hour: 10:30 AM - 11:30 AM or 3:00 PM - 3:30 PM, Tuesday/Thursday, Riverside 5044 </span>
+
 News
 ====
 <span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Nov, 2025</span> Congratulations! Our poster, "Bridging Hardware Barriers in Operating Systems Education through Hybrid Cloud Infrastructure", has been accepted to <span style="color: red;"> SIGCSE TS 2026 </span>!
