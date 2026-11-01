@@ -7,8 +7,11 @@ author_profile: true
 
 {% include base_path %}
 - **Sac State**
+	* CSC 137 Computer Organization, Lecturer
+		* Spr 27
+  		* [Class Syllabus]()
 	* CSC/CPE 159 Operating System Pragmatics, Lecturer
-		* Fal 24, Spr 25, Fal 25, Spr 26, Fal 26
+		* Fal 24, Spr 25, Fal 25, Spr 26, Fal 26, Spr 27
 		* [Class Syllabus](https://docs.google.com/document/d/1OYyOZoyeseAnQQzX-ALmAHFZt1ah43HU/edit?usp=sharing&ouid=110407991497263418226&rtpof=true&sd=true)
 	* CSC 139 Operating System Principles, Lecturer
 		* Sum 25, Spr 26, Fal 26
@@ -16,6 +19,8 @@ author_profile: true
 	* CSC 190 Senior Project, Lab Advisor
 		* Fal 24, Spr 25, Fal 25, Spr 26, Fal 26
 		* [Class Syllabus](https://docs.google.com/document/d/1aiItb5UymTLD6MDp0MT-cNuhmnEzO_4a9VuCvuOG51k/edit?usp=sharing)
+    * CSC 191 Senior Project, Lab Advisor
+		* Fal 26
 	* CSC 239 Advanced Operating System, Lecturer
 		* Fal 25 
 
