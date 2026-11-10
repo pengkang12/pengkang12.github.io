@@ -20,6 +20,5 @@ I enjoy communicating my work and talking with students who want to learn more a
 
 News
 ====
-<span style="padding: 2pt 5pt; border-radius: 10px; color: white; background-color: #AB9758;">Nov, 2025</span> Congratulations! Our poster, "Bridging Hardware Barriers in Operating Systems Education through Hybrid Cloud Infrastructure", has been accepted to <span style="color: red;"> SIGCSE TS 2026 </span>!
 
 <span>...</span>
