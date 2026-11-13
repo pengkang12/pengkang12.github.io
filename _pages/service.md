@@ -14,6 +14,7 @@ author_profile: true
 	- IEEE International Symposium on Cluster, Cloud and Internet Computing, 2024
 
 * Reviewer
+	- IEEE Transactions on Cloud Computing 2026
 	- International Conference on Machine Learning and Applications (ICMLA), 2026	
 	- IEEE Cloud Summit 2025
 	- ACM Transactions on Internet Technology (TOIT) 2025
