@@ -10,9 +10,12 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-* **Peng Kang**, Palden Lama, "Bridging Hardware Barriers in Operating Systems Education through Hybrid Cloud Infrastructure", In the Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.2, St. Louis, MO, USA, 2026.
-* Faiza Akram, **Peng Kang**, Palden Lama, Samee U. Khan, "Data-priority Aware Fair Task Scheduling for Stream Processing at the Edge", In the 8th IEEE Cloud Summit, Washington, DC, USA, 2024. (Selected as the best paper).
-* Hasanul Mahmud, **Peng Kang**, Kevin Desai, Palden Lama and Sushil Prasad, "Enhanced Converting Autoencoder based Framework for Low-latency Energy-efficient DNN with SLO-constraints", In the 8th IEEE Cloud Summit, Washington, DC, USA, 2024.
+* **P. Kang**, P. Lama, "A Low-Cost Raspberry Pi Platform for Bare-Metal Operating Systems Laboratories", In the Proceedings of the 58th ACM Technical Symposium on Computer Science Education V.2, Sacramento, CA, USA, 2027.
+* R. Mullah, M. Eltayed, A. Wyman, **P. Kang**, and G. Khan, “A Lightweight Detector-Agnostic Finite-State Framework for Traffic Event Detection from Fixed-Camera Video”, accepted to Transportation Research Board (TRB) Annual Meeting 2027. 
+* Wang, T.; Zhao, X.; **Kang, P.**; Gong, Y.; Choo, K. Raymond; and Guo, Y., "Rethinking Opioid Use Disorder Treatment Outcome Prediction with Large Language Models" (2027). In proceeding of Hawaii International Conference on System Sciences 2027 (HICSS-60). 
+* **P. Kang**, P. Lama, "Bridging Hardware Barriers in Operating Systems Education through Hybrid Cloud Infrastructure", In the Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.2, St. Louis, MO, USA, 2026.
+* F. Akram, **P. Kang**, P. Lama, S. Khan, "Data-priority Aware Fair Task Scheduling for Stream Processing at the Edge", In the 8th IEEE Cloud Summit, Washington, DC, USA, 2024. (Selected as the best paper).
+* H. Mahmud, **P. Kang**, K. Desai, P. Lama and S. Prasad, "Enhanced Converting Autoencoder based Framework for Low-latency Energy-efficient DNN with SLO-constraints", In the 8th IEEE Cloud Summit, Washington, DC, USA, 2024.
 * H. Mahmud, **P. Kang**, K. Desai, P. Lama and S. Prasad, "A Converting Autoencoder Toward Low-latency and Energy-efficient DNN Inference at the Edge", In the 6th Workshop on Parallel AI and Systems for the Edge (PAISE), San Francisco, USA, May 2024.
 * **P. Kang**, S. Khan, X. Zhou and P. Lama. "High-throughput Real-time Edge Stream Processing with Topology-Aware Resource Matching", In the 24nd IEEE/ACM International Symposium on Cluster, Cloud and Internet Computing (CCGrid), 10 pages, Philadelphia, USA, May 2024.
 * A. Shahid, **P. Kang**, P. Lama and S. U. Khan, "Some New Observations on SLO-aware Edge Stream Processing," 2023 IEEE Cloud Summit, Baltimore, MD, USA, 2023, pp. 27-32.

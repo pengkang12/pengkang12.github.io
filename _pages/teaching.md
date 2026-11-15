@@ -9,7 +9,7 @@ author_profile: true
 - **Sac State**
 	* CSC 137 Computer Organization, Lecturer
 		* Spr 27
-  		* [Class Syllabus]()
+  		* [Class Syllabus](https://docs.google.com/document/d/1OdIrfWr92Dp3jH4heYpjGc5wAgwAajcHEOeQn8wRB4M/edit?tab=t.0)
 	* CSC/CPE 159 Operating System Pragmatics, Lecturer
 		* Fal 24, Spr 25, Fal 25, Spr 26, Fal 26, Spr 27
 		* [Class Syllabus](https://docs.google.com/document/d/1OYyOZoyeseAnQQzX-ALmAHFZt1ah43HU/edit?usp=sharing&ouid=110407991497263418226&rtpof=true&sd=true)
