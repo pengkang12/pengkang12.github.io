@@ -18,6 +18,10 @@ I enjoy communicating my work and talking with students who want to learn more a
 
 <span>Office Hour: 10:30 AM - 11:30 AM or 3:00 PM - 3:30 PM, Tuesday/Thursday, Riverside 5044 </span>
 
+Acknowledge
+====
+<span>We gratefully acknowledge GitHub Education, Classroom 50, and Chameleon Cloud for generously providing the computing resources used in my teaching and Research!</span>
+
 News
 ====
 
