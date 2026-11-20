@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
+* Program Committee
+	- IEEE Cloud Summit 2027, The Technical Program Committee (TPC) Member
+
 * Organizing Committee
 	- The Technical Symposium on Computer Science Education (SIGCSE TS) 2027, Affiliated Events Co-Chair
   	  
