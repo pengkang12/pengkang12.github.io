@@ -22,6 +22,7 @@ author_profile: true
 	- IEEE Cloud Summit 2025
 	- ACM Transactions on Internet Technology (TOIT) 2025
 	- Sprinter Nature: Automated Software Engineering (ASE) 2025	
+	- IEEE Global Communications Conference (GLOBECOM) 2025	
 	- IEEE International Conference on Data Mining (ICDM), 2024
 	- IEEE Transactions on Network Science and Engineering (TNSE), 2023
 	- IEEE International Conference on Communications (ICC), 2022, 2026
