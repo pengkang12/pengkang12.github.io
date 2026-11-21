@@ -25,7 +25,7 @@ author_profile: true
 	- IEEE Global Communications Conference (GLOBECOM) 2025	
 	- IEEE International Conference on Data Mining (ICDM), 2024
 	- IEEE Transactions on Network Science and Engineering (TNSE), 2023
-	- IEEE International Conference on Communications (ICC), 2022, 2026
+	- IEEE International Conference on Communications (ICC), 2022, 2025, 2026
 
 * Webmaster
 	- IEEE Computer Society Technical Committee on Distributed Processing (TCDP), 2020 - 2024
